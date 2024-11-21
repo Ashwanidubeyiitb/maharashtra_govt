@@ -1,5 +1,6 @@
-     streamlit
-     pandas
-     pandasai
-     openai
-     matplotlib
+   streamlit
+   pandas
+   pandasai
+   openai
+   matplotlib
+   PyYAML
